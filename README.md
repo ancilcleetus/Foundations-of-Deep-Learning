@@ -2,8 +2,9 @@
 
 | No | Code Name | Description | Tech Stack | Done | Parent Folder | Comments | 
 | -- | --------- | ----------- | ---------- | ---- | :------------ | :------- | 
-| 008 | [02_LeNet_pytorch.ipynb](/02-Convolutional-Neural-Networks/02_LeNet_pytorch.ipynb) | LeNet in PyTorch | PyTorch | ⬜ | [02 Convolutional Neural Networks](/02-Convolutional-Neural-Networks) |  | 
-| 007 | [01_SimpleNN_pytorch.ipynb](/02-Convolutional-Neural-Networks/01_SimpleNN_pytorch.ipynb) | Simple Neural Network in PyTorch | PyTorch | ✔️ | [02 Convolutional Neural Networks](/02-Convolutional-Neural-Networks) |  | 
+| 009 | [02_LeNet_pytorch.ipynb](/02-Convolutional-Neural-Networks/02_LeNet_pytorch.ipynb) | LeNet in PyTorch | PyTorch | ⬜ | [02 Convolutional Neural Networks](/02-Convolutional-Neural-Networks) |  | 
+| 008 | [01_SimpleNN_pytorch.ipynb](/02-Convolutional-Neural-Networks/01_SimpleNN_pytorch.ipynb) | Simple Neural Network in PyTorch | PyTorch | ✔️ | [02 Convolutional Neural Networks](/02-Convolutional-Neural-Networks) |  | 
+| 007 | [07_layers_pytorch.ipynb](/01-Basics/07_layers_pytorch.ipynb) | Layers in PyTorch | PyTorch | ⬜ | [01 Basics](/01-Basics) |  | 
 | 006 | [06_convolutions_pytorch.ipynb](/01-Basics/06_convolutions_pytorch.ipynb) | Convolutions in PyTorch | PyTorch | ✔️ | [01 Basics](/01-Basics) |  | 
 | 005 | [05_neural_net_pytorch.ipynb](/01-Basics/05_neural_net_pytorch.ipynb) | Neural Network in PyTorch | PyTorch | ✔️ | [01 Basics](/01-Basics) |  | 
 | 004 | [04_activation_functions_pytorch.ipynb](/01-Basics/04_activation_functions_pytorch.ipynb) | Activation Functions in PyTorch | PyTorch | ✔️ | [01 Basics](/01-Basics) |  | 
